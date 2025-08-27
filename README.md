@@ -1,3 +1,1 @@
-# CV-AUTO
-https://prod.liveshare.vsengsaas.visualstudio.com/join?2968A35D4750B367D885B1A0431CB9EBBB9F
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?8F8184D9D018E1D760BE5C455D8F337495A6
